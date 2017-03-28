@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"NO",
+				"None\tinstance"
+			],
+			[
+				"LOGI",
+				"LOGIN_REDIRECT_URL"
+			],
+			[
+				"con",
+				"confirm_message\tstatement"
+			],
+			[
+				"em",
+				"emailTo\tstatement"
+			],
+			[
+				"EM",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"EMAIL",
+				"EMAIL_USE_TLS"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"contact",
+				"contactForm\tclass"
+			],
+			[
+				"he",
+				"help_text"
+			],
+			[
+				"temp",
+				"template\tstatement"
+			],
+			[
+				"contac",
+				"contact_views\tmodule"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"ja",
+				"JavaScript"
+			],
+			[
+				"STA",
+				"STATIC_URL"
+			],
+			[
+				"url",
+				"urlpatterns\tstatement"
+			],
+			[
+				"STATIC",
+				"STATICFILES_DIRS"
+			],
+			[
+				"pa",
+				"path\tmodule"
+			],
+			[
+				"MED",
+				"MEDIA_ROOT"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL"
+			],
+			[
+				"prof",
+				"profiles\tmodule"
+			],
+			[
+				"conte",
+				"context\tstatement"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"profi",
+				"profileAdmin\tclass"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"un",
+				"unicode_literals\tstatement"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"Re",
+				"RequestContext\timport"
+			],
+			[
+				"model",
+				"ModelForm\timport"
+			],
+			[
+				"form",
+				"ModelForm"
+			],
+			[
+				"Model",
+				"ModelForm\tModelForm"
+			],
+			[
+				"mode",
+				"ModelForm\timport"
+			],
+			[
+				"Mod",
+				"ModelForm\tModelForm"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Http",
+				"HTTPSResponse"
+			],
+			[
+				"vie",
+				"views"
+			],
+			[
+				"pu",
+				"pub_date"
+			],
+			[
+				"old",
+				"old_question"
+			],
+			[
+				"ti",
+				"timedelta"
+			],
+			[
+				"time",
+				"timezone"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/profiles/templates/profile.html",
+			"settings":
+			{
+				"buffer_size": 104,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/profiles/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 2793,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tryTen/urls.py",
+			"settings":
+			{
+				"buffer_size": 1465,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/contact",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/contact/templates",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/tryTen",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/static",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/static/static",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/static/static/img"
+	],
+	"file_history":
+	[
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/tryTen/settings.py",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/account/login.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/account/logout.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/navbar.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/views.py",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/account/base.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/account/signup.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/tryTen/urls.py",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/contact/templates/contact.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/contact/views.py",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/contact/forms.py",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/base.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/home.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/static/static/css/main.css",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/static/static/css/bootstrap.min.css",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/about.html",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/static/static/main.css",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/models.py",
+		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/admin.py",
+		"/Users/Mahfuz/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/Mahfuz/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/employee/models.py",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/employee/templates/index.html",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/employee/urls.py",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/employee/forms.py",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/trydjango18/urls.py",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/employee/templates/detail.html",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/employee/views.py",
+		"/Users/Mahfuz/Library/Application Support/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/Users/Mahfuz/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/trydjango18/settings.py",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/template/index.html",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/employee/tests.py",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/employee/template/index.html",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/timesheet/urls.py",
+		"/Users/Mahfuz/Documents/GitHub/trydjango18/src/timesheet/views.py",
+		"/Users/Mahfuz/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Mahfuz/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Mahfuz/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Users/Mahfuz/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/Mahfuz/Documents/GitHub/mysite/polls/views.py",
+		"/Users/Mahfuz/Documents/GitHub/mysite/polls/tests.py",
+		"/Users/Mahfuz/Documents/GitHub/mysite/.gitignore",
+		"/Users/Mahfuz/Documents/GitHub/README"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"max"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/profiles/templates/profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/profiles/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								996,
+								996
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 262.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/tryTen/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								836,
+								836
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tryTen.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
