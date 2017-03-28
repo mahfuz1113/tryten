@@ -179,33 +179,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/profiles/templates/profile.html",
-			"settings":
-			{
-				"buffer_size": 104,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/profiles/templates/home.html",
-			"settings":
-			{
-				"buffer_size": 2793,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/tryTen/urls.py",
-			"settings":
-			{
-				"buffer_size": 1465,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -251,16 +224,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Mahfuz/Documents/GitHub/tryTen/src",
-		"/Users/Mahfuz/Documents/GitHub/tryTen/src/contact",
-		"/Users/Mahfuz/Documents/GitHub/tryTen/src/contact/templates",
-		"/Users/Mahfuz/Documents/GitHub/tryTen/src/tryTen",
-		"/Users/Mahfuz/Documents/GitHub/tryTen/static",
-		"/Users/Mahfuz/Documents/GitHub/tryTen/static/static",
-		"/Users/Mahfuz/Documents/GitHub/tryTen/static/static/img"
 	],
 	"file_history":
 	[
+		"/C/Temp/PythonProjects/tryTen/tryten/src/profiles/templates/profile.html",
+		"/C/Temp/PythonProjects/tryTen/tryten/src/tryTen/urls.py",
+		"/C/Temp/PythonProjects/tryTen/tryten/src/profiles/templates/home.html",
 		"/Users/Mahfuz/Documents/GitHub/tryTen/src/tryTen/settings.py",
 		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/account/login.html",
 		"/Users/Mahfuz/Documents/GitHub/tryTen/src/profiles/templates/account/logout.html",
@@ -340,107 +309,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/profiles/templates/profile.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 104,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								104,
-								104
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/profiles/templates/home.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2793,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								996,
-								996
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 262.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/tryTen/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								836,
-								836
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
